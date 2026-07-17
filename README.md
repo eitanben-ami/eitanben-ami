@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-=======
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Eitan+Ben-Ami+%F0%9F%91%8B;Research+Scientist+%7C+Cyber-AI;FHE+%F0%9F%93%9A+MAS+%F0%9F%A4%96+Foundation+Models;Building+evaluation+frameworks+for+autonomous+intelligence" alt="Typing SVG" />
 </div>
@@ -70,49 +69,11 @@ I build **evaluation frameworks** and systems that enable **autonomous intellige
   <img src="https://img.shields.io/badge/Research-Open%20Science-01D38A?style=flat-square" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-one-hazel.vercel.app/api?username=eitanben-ami&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-one-hazel.vercel.app/api/top-langs/?username=eitanben-ami&theme=tokyonight&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eitanben-ami&theme=tokyonight" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eitanben-ami&style=flat-square" alt="Visitor Counter" />
-</p>
-
----
-
 ## 💡 Developer Quote
 
-| |
 |:---|
 > "The measure of autonomous intelligence is not what it can do alone, but how reliably it can be examined and trusted." |
 | — *Eitan Ben-Ami* |
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/eitanben-ami" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-eitanben-ami-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:eitanbenami@gmail.com">
-    <img src="https://img.shields.io/badge/Email-eitanbenami%40gmail.com-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
 
 ## ✨ Fun Facts
 
