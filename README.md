@@ -1,20 +1,8 @@
-<<<<<<< HEAD
-## Hi there 👋
+---
+title: Eitan Ben-Ami
+description: Research Scientist focused on Cyber-AI, FHE, Multi-Agent Systems, and Foundation Models.
+---
 
-<!--
-**eitanben-ami/eitanben-ami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Eitan+Ben-Ami+%F0%9F%91%8B;Research+Scientist+%7C+Cyber-AI;FHE+%F0%9F%93%9A+MAS+%F0%9F%A4%96+Foundation+Models;Building+evaluation+frameworks+for+autonomous+intelligence" alt="Typing SVG" />
 </div>
@@ -87,4 +75,3 @@ I build **evaluation frameworks** and systems that enable **autonomous intellige
 <p align="center">
   <sub>Built with curiosity & caffeine. Stats via <a href="https://github-readme-stats-one-hazel.vercel.app">github-readme-stats</a> + <a href="https://komarev.com">komarev</a></sub>
 </p>
->>>>>>> a4bb6d1 (Add polished GitHub Profile README)
