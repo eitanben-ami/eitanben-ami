@@ -15,6 +15,8 @@ I am a **Research Scientist** focused on the intersection of **Cyber-AI, Fully H
 
 I build **evaluation frameworks** and systems that enable **autonomous intelligence** to be measured, audited, and trusted — bridging applied cryptography, machine learning, and secure systems.
 
+- 🗂️ Repositories: [eitanben-ami](https://github.com/eitanben-ami/eitanben-ami)
+
 ---
 
 ## 🔬 Current Interests
