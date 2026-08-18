@@ -61,9 +61,9 @@ I build **evaluation frameworks** and systems that enable **autonomous intellige
 
 ## 💡 Developer Quote
 
-|:---|
-> "The measure of autonomous intelligence is not what it can do alone, but how reliably it can be examined and trusted." |
-| — *Eitan Ben-Ami* |
+> "The measure of autonomous intelligence is not what it can do alone, but how reliably it can be examined and trusted."
+>
+> — *Eitan Ben-Ami*
 
 ## ✨ Fun Facts
 
