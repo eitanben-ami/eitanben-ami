@@ -74,6 +74,21 @@ I build **evaluation frameworks** and systems that enable **autonomous intellige
 
 ---
 
+## 🚀 Highlighted Projects
+
+| Project | Description |
+|---------|-------------|
+| [changeloglint](https://github.com/eitanben-ami/changeloglint) | Lint changelogs for format and convention compliance |
+| [todoexpire](https://github.com/eitanben-ami/todoexpire) | Auto-expire stale TODO and FIXME comments |
+| [actionaudit](https://github.com/eitanben-ami/actionaudit) | Audit GitHub Actions workflows for security and hygiene |
+| [docdiff](https://github.com/eitanben-ami/docdiff) | Diff documents semantically, not just textually |
+| [httpstatus](https://github.com/eitanben-ami/httpstatus) | HTTP status code reference and classification tool |
+| [git-snapshot](https://github.com/eitanben-ami/git-snapshot) | Snapshot and restore git working trees |
+
+*Last updated: September 2026*
+
+---
+
 <p align="center">
-  <sub>Built with curiosity & caffeine. Stats via <a href="https://github-readme-stats-one-hazel.vercel.app">github-readme-stats</a> + <a href="https://komarev.com">komarev</a></sub>
+  <sub>Built with curiosity & caffeine. Stats via <a href="https://github-readme-stats.vercel.app">github-readme-stats</a> + <a href="https://komarev.com">komarev</a></sub>
 </p>

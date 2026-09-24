@@ -3,12 +3,16 @@
 !/.env.example
 node_modules/
 __pycache__/
-.venv/
+.ruff_cache/
+.pytest_cache/
+.cache/
+.mypy_cache/
+.python-version
 venv/
 dist/
 build/
-/coverage
 coverage/
+/coverage
 /out
 /out/
 /logs
@@ -25,3 +29,6 @@ desktop.ini
 *.tsbuildinfo
 .env.backup
 .env.bak
+*.lock
+pdm.lock
+poetry.lock
