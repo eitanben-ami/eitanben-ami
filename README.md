@@ -90,5 +90,5 @@ I build **evaluation frameworks** and systems that enable **autonomous intellige
 ---
 
 <p align="center">
-  <sub>Built with curiosity & caffeine. Stats via <a href="https://github-readme-stats.vercel.app">github-readme-stats</a> + <a href="https://komarev.com">komarev</a></sub>
+  <sub>Built with curiosity & caffeine. Stats via <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eitanben-ami">github-profile-summary-cards</a> + <a href="https://komarev.com">komarev</a></sub>
 </p>
